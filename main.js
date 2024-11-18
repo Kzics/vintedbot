@@ -26,4 +26,4 @@ loadCommands(client);
 //trackItems(client);
 loadTracks(client)
 
-client.login('MTE2Nzk0ODg2ODEzNTE3MDIwOA.Gqv4wE.bG9gNXtZY1QbW8UM0PpvPME6-awDYZ7LqxitnU');
+client.login('');
