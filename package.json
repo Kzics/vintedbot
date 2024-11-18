@@ -1,0 +1,20 @@
+{
+  "name": "vintedbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "discord.js": "^14.15.2",
+    "https-proxy-agent": "^7.0.4",
+    "node-fetch": "^3.3.2",
+    "user-agents": "^1.1.199",
+    "yaml": "^2.5.0"
+  }
+}

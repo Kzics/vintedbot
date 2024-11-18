@@ -1,0 +1,18 @@
+connect:
+  title: "Connettersi a Vinted"
+  token_label: "Il tuo Token"
+  refresh_token_label: "Il tuo Token di Rinnovo"
+  xcsrf_token_label: "Il tuo Token X-CSRF"
+  success: "Connessione riuscita!"
+  failed: "Connessione fallita, controlla le tue informazioni"
+  already-connected: "Sei già connesso!"
+
+lang:
+  set_message: "Lingua impostata su Italiano"
+error:
+  not_connected: "Non sei connesso"
+  verify_card: "Verifica le informazioni della tua carta di credito prima di riprovare!"
+  autobuy_unsuccessful: "L'acquisto automatico non è riuscito! Riprova con un prodotto diverso"
+success:
+  added_favorites: "Aggiunto ai preferiti con successo"
+  autobuy_successful: "L'acquisto automatico è riuscito!"

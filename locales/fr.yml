@@ -1,0 +1,18 @@
+connect:
+  title: "Se connecter à Vinted"
+  token_label: "Votre Jeton"
+  refresh_token_label: "Votre Jeton de Rafraîchissement"
+  xcsrf_token_label: "Votre Jeton X-CSRF"
+  success: "Connexion réussi !"
+  failed: "Connexion echoué, veuillez verifiez vos informations"
+  already-connected: "Vous êtes déjà connecté!"
+lang:
+  set_message: "Langue définie sur Français"
+error:
+  not_connected: "Vous n'êtes pas connecté"
+  verify_card: "Vérifiez les informations de votre carte bancaire avant de réessayer !"
+  autobuy_unsuccessful: "L'achat automatique a échoué ! Réessayez avec un autre produit"
+success:
+  added_favorites: "Ajouté aux favoris avec succès"
+  autobuy_successful: "L'achat automatique a réussi !"
+
